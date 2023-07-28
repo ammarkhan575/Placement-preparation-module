@@ -79,4 +79,3 @@ int main()
 	getchar();
 }
 
-// This code is contributed by Code_Mech
